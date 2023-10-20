@@ -3,8 +3,8 @@
 <h1 align="center">#Eai 😁 Me Chamo Gabriel!</h1> <br>
 <p align="left">
 Sou um apaixonado pela área de desenvolvimento, a cada linha de código essa paixão aumenta, me cativando a aprender e a buscar mais e mais. Mesmo às vezes cometendo erros sempre retiro o melhor deles para que não os cometa novamente e assim crescer não somente como um profissional, mas também como eu ser humano.
-<br>  
-I am passionate about the development area, with each line of code this passion grows.
+<hr>
+I am passionate about the development area, with each line of code this passion increases, captivating me to learn and seek more and more. Even though I sometimes make mistakes, I always make the best of them so that I don't make them again and thus grow not only as a professional, but also as a human being.
 
 </p>  <br><h2 align="center"> Back-end </h2>
 
