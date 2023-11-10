@@ -6,7 +6,7 @@ Sou um apaixonado pela área de desenvolvimento, a cada linha de código essa pa
 <hr>
 I am passionate about the development area, with each line of code this passion increases, captivating me to learn and seek more and more. Even though I sometimes make mistakes, I always make the best of them so that I don't make them again and thus grow not only as a professional, but also as a human being.
 
-</p>  <br><h2 align="center"> Back End Develope </h2>
+</p>  <br><h2 align="center"> Back End Developer </h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielrcosta1/) 
