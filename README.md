@@ -20,11 +20,3 @@ I am passionate about the development area, with each line of code this passion 
 ![PostGreSql](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
 ![AmazonWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
-<div align="center">
-
-<a href="https://github.com/gabrielrcosta1">
-  <a href="https://github.com/gabrielrcosta1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrcosta1&layout=compact&langs_count=7&theme=bear"/>
-
-</a>
-</div>
