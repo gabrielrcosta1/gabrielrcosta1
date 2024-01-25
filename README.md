@@ -1,6 +1,6 @@
 
 
-<h1 align="center">#Eai 😁 Me Chamo Gabriel!</h1> <br>
+<h1 align="center">#Me Chamo Gabriel!</h1> <br>
 <p align="left">
 Sou um apaixonado pela área de desenvolvimento, a cada linha de código essa paixão aumenta, me cativando a aprender e a buscar mais e mais. Mesmo às vezes cometendo erros sempre retiro o melhor deles para que não os cometa novamente e assim crescer não somente como um profissional, mas também como eu ser humano.
 <hr>
