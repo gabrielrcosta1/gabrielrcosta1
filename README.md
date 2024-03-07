@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------------------------------------------
 
-I'm Gabriel Ribeiro, a software developer and content creator in my free time. I'm a laravel evangelist, I started using laravel in 2022 and the laravel changed my life forever! 
+I'm Gabriel Ribeiro, a software developer . I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
 
 I'm very passionate about PHP and the laravel ecosystem, I've been working with both for 5 years
 
