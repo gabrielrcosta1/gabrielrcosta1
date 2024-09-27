@@ -6,7 +6,7 @@ Software Developer
 
 I'm Gabriel Ribeiro, a software developer . I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
 
-I'm very passionate about PHP and the laravel ecosystem, I've been working with both for 5 years
+I'm very passionate about PHP and the laravel ecosystem, I've been working with both for 4 years
 
 I am passionate about the development area, with each line of code this passion increases, captivating me to learn and seek more and more. Even though I sometimes make mistakes, I always make the best of them so that I don't make them again and thus grow not only as a professional, but also as a human being.
 
