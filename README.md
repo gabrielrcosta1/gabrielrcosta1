@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Riberio
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Ribeiro
 ========================================================================================================================================
 
 Software Developer
 --------------------------------------------------------
 
-I'm Gabriel Ribeiro, a software developer . I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
+I'm Gabriel Ribeiro, I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
 
 I'm very passionate about PHP and the laravel ecosystem, I've been working with both for 4 years
 
