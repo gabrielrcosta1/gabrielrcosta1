@@ -1,6 +1,4 @@
-Professional software development with 4 years of experience in PHP, as a backEnd developer, specialized in the Laravel ecosystem with 3 years.
-I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
-
+Developer with 4 years of experience focusing on PHP, specialized in the Laravel ecosystem for 3 years. I am a Laravel evangelist, I started using it in 2021 and Laravel has changed my life forever!
 ### Skills
 
 
@@ -25,10 +23,3 @@ I'm a laravel evangelist, I started using laravel in 2021 and the laravel change
 ### Socials
 
 <p align="left"> <a href="https://dev.to/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gabrielribeiro9795" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/GabrielRib5627" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gabrielrcosta1"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrcosta1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielrcosta1's GitHub stats" /></a>
-
