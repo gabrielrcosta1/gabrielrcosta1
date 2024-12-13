@@ -1,4 +1,6 @@
-Developer with 4 years of experience focusing on PHP, specialized in the Laravel ecosystem for 3 years. I am a Laravel evangelist, I started using it in 2021 and Laravel has changed my life forever!
+# Gabriel Ribeiro
+Developer with 4 years of experience focusing on PHP, specialized in the Laravel ecosystem for 3 years. <br>
+I am a Laravel evangelist, I started using it in 2021 and Laravel has changed my life forever!
 ### Skills
 
 
@@ -22,4 +24,4 @@ Developer with 4 years of experience focusing on PHP, specialized in the Laravel
 
 ### Socials
 
-<p align="left"> <a href="https://dev.to/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gabrielribeiro9795" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/GabrielRib5627" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://dev.to/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gabrielribeiro9795" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="http://www.instagram.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/GabrielRib5627" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
