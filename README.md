@@ -1,11 +1,6 @@
 Professional software development with 4 years of experience in PHP, as a backEnd developer, specialized in the Laravel ecosystem with 3 years.
 I'm a laravel evangelist, I started using laravel in 2021 and the laravel changed my life forever!
 
-<a href="https://www.github.com/gabrielrcosta1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gabrielrcosta1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/GabrielRib5627" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GabrielRib5627?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
